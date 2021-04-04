@@ -1,0 +1,8 @@
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\18520263\18520263\obj\Debug\_18520263.ProjectInstaller.resources
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\18520263\18520263\obj\Debug\18520263.csproj.GenerateResource.cache
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\18520263\18520263\obj\Debug\18520263.csproj.CoreCompileInputs.cache
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\18520263\18520263\bin\Debug\18520263.exe.config
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\18520263\18520263\bin\Debug\18520263.exe
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\18520263\18520263\bin\Debug\18520263.pdb
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\18520263\18520263\obj\Debug\18520263.exe
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\18520263\18520263\obj\Debug\18520263.pdb
