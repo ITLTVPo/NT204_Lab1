@@ -1,0 +1,9 @@
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\bin\Debug\18520263-Task3.exe.config
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\bin\Debug\18520263-Task3.exe
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\bin\Debug\18520263-Task3.pdb
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\obj\Debug\18520263-Task3.csprojAssemblyReference.cache
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\obj\Debug\_18520263_Task3.ProjectInstaller.resources
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\obj\Debug\18520263-Task3.csproj.GenerateResource.cache
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\obj\Debug\18520263-Task3.csproj.CoreCompileInputs.cache
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\obj\Debug\18520263-Task3.exe
+E:\Học\Kì 6\Cơ chế hoạt động của mã độc\Lab\Lab1\New folder\18520263-task3\18520263-Task3\18520263-Task3\obj\Debug\18520263-Task3.pdb
